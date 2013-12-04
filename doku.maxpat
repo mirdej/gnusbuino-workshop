@@ -139,7 +139,7 @@
 													"outlettype" : [ "", "int", "", "" ],
 													"parameter_enable" : 0,
 													"patching_rect" : [ 733.0, 348.0, 172.0, 28.0 ],
-													"text" : "500 Ohm"
+													"text" : "611 Ohm"
 												}
 
 											}
@@ -3120,7 +3120,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 233.0, 254.0, 186.0, 30.0 ],
+					"patching_rect" : [ 234.0, 254.0, 186.0, 30.0 ],
 					"text" : "C-Programmierung\nZahlentypen, Bit Arithmetik"
 				}
 
@@ -3160,7 +3160,6 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -5226,7 +5225,6 @@
 										"description" : "",
 										"digest" : "",
 										"tags" : "",
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"fontname" : "Arial",
